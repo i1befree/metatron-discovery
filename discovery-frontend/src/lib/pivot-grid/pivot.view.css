@@ -201,3 +201,13 @@
   z-index: 1;
   background-color: #fff;
 }
+.pivot-resizable-handle {
+  cursor: col-resize;
+  position: absolute;
+  font-size: 0.1px;
+  display: block;
+  width: 8px;
+  right: 0px;
+  top: 0px;
+  height: 100%;
+}
